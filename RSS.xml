@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>MiWeb</title>
+  <link>http://www.example.com/</link>
+  <description>Este es mi web con el estilo de un blog sencillo que contiene tres artículos de ejemplo</description>
+  <item>
+    <title>Artículo 1</title>
+    <link>http://www.example.com/articulo1</link>
+    <description>Lorem Ipsum dolor sit amet, consectetuer adipiscingelit. Duis tellus. Donec ante dolor, iaculis...</description>
+    <pubDate>Tue, 26 Apr 2023 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Artículo 2</title>
+    <link>http://www.example.com/articulo2</link>
+    <description>Lorem Ipsum dolor sit amet, consectetuer adipiscingelit. Duis tellus. Donec ante dolor, iaculis...</description>
+    <pubDate>Mon, 25 Apr 2023 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Artículo 3</title>
+    <link>http://www.example.com/articulo3</link>
+    <description>Lorem Ipsum dolor sit amet, consectetuer adipiscingelit. Duis tellus. Donec ante dolor, iaculis...</description>
+    <pubDate>Sun, 24 Apr 2023 00:00:00 GMT</pubDate>
+  </item>
+</channel>
+</rss>
+
