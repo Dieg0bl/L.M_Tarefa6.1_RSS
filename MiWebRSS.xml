@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Mi Blog Sencillo</title>
+  <link>http://www.example.com/</link>
+  <description>Este es un blog sencillo con tres artículos de ejemplo</description>
+  <language>es</language>
+  <item>
+    <title>Artículo 1</title>
+    <link>http://www.example.com/articulo1</link>
+    <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero...</description>
+    <pubDate>Tue, 26 Apr 2023 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Artículo 2</title>
+    <link>http://www.example.com/articulo2</link>
+    <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero...</description>
+    <pubDate>Mon, 25 Apr 2023 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title
